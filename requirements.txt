@@ -1,0 +1,4 @@
+beautifulsoup4>=4.12.2
+langchain-text-splitters>=0.0.1
+tqdm>=4.66.1
+nltk>=3.8.1
